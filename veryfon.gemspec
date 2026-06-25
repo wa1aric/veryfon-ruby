@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = ">= 3.0"
 
-  s.files = Dir["lib/**/*.rb"] + ["README.md", "LICENSE.txt"]
+  s.files = Dir["lib/**/*.rb"] + ["README.md"]
   s.require_paths = ["lib"]
 
-  s.metadata["source_code_uri"] = "https://github.com/anomalyco/veryfon/tree/main/client"
+  s.metadata["source_code_uri"] = "https://github.com/wa1aric/veryfon-ruby"
 end
