@@ -1,0 +1,5 @@
+require_relative "veryfon/version"
+require_relative "veryfon/error"
+require_relative "veryfon/verification"
+require_relative "veryfon/client"
+require_relative "veryfon/webhook"
